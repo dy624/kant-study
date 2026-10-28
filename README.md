@@ -13,3 +13,9 @@ git add -A # 해당 리포지토리
 # commit 
 git commkit -m "커밋 메시지"
 ```
+
+```bash
+# push command
+
+git push origin main
+```
