@@ -8,3 +8,8 @@ git init
 git add . # 전부
 git add -A # 해당 리포지토리
 ```
+
+```bash
+# commit 
+git commkit -m "커밋 메시지"
+```
